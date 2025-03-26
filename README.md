@@ -1,0 +1,6 @@
+- Vue 3
+- Pinia
+- Router
+- ESLint
+- Prettier
+- Vitest
